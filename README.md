@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋
 
-<!--
-**hackersthan/hackersthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hackersthan** is a platform to learn bug bounty and cybersecurity related stuff.
 
-Here are some ideas to get you started:
+## Course
+Hackersthan recently started **Bug Bounty Hunting | From 0 to 1** course to tech bug hunting to the beginners. Its 100% Free.  
+[Course Link](https://www.youtube.com/playlist?list=PLkRyJcOAYOYUQnTP5scbpalth5qbZVvI7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+Youtube : https://www.youtube.com/@Hackersthan  
+Email : [hackersthan@gmail.com](mailto:hackersthan@gmail.com)  
+Website : https://hackersthan.in
+
+---
+
+pwr
